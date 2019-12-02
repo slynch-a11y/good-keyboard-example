@@ -1,2 +1,2 @@
 # good-example-keyboard
-https://git.yale.edu/pages/sl452/good-example-keyboard/
+https://slynch-github.github.io/good-keyboard-example/
